@@ -1,2 +1,1 @@
-import Twitter from './lib/Twitter';
-export default Twitter;
+module.export = require('./lib/Twitter');
